@@ -12,7 +12,7 @@ hidemeta: true
 
 ### I'm a Computer Science engineer with a specialty in Robotics and Embedded Systems. 🤖
 
-I am currently looking to pursue my studies through a PhD. in HRI (Human-Robot Interaction) in France or anywhere in the world, really. I am also open to hiring opportunities as an engineer, bonus points if it's for research in robotics and HRI in particular.
+I am currently looking to either get an engineering job or pursue my studies through a PhD. in HRI (Human-Robot Interaction) in France or anywhere in the world, really. I am also open to hiring opportunities as an engineer, bonus points if it's for research in social robotics and HRI in particular.
 
 I dream of becoming a researcher and a teacher one day, in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.
 
