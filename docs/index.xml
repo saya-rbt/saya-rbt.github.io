@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Saya&#39;s website</title>
+    <link>http://saya-rbt.github.io/</link>
+    <description>Recent content on Saya&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 11:41:50 +0200</lastBuildDate><atom:link href="http://saya-rbt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>http://saya-rbt.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 14 Jun 2021 11:41:50 +0200</pubDate>
+      
+      <guid>http://saya-rbt.github.io/posts/hello-world/</guid>
+      <description>This is my first post! Welcome to my website! I am mostly just figuring out how Hugo works for now, but I have to say it looks very promising.
+(There isn&amp;rsquo;t much else to see on this post, it is mostly a test/placeholder. You can leave this page, I promise there isn&amp;rsquo;t a hidden link or anything.)</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://saya-rbt.github.io/about/</link>
+      <pubDate>Mon, 14 Jun 2021 11:39:24 +0200</pubDate>
+      
+      <guid>http://saya-rbt.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m Saya. 👋 I&amp;rsquo;m a Computer Science engineer with a specialty in Robotics and Embedded Systems. 🤖 I am currently looking to pursue my studies through a PhD. in HRI (Human-Robot Interaction) in France or anywhere in the world, really. I am also open to hiring opportunities as an engineer, bonus points if it&amp;rsquo;s for research in robotics and HRI in particular.
+I dream of becoming a researcher and a teacher one day, in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.</description>
+    </item>
+    
+  </channel>
+</rss>

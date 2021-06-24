@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Saya&#39;s website</title>
+    <link>http://saya-rbt.github.io/posts/</link>
+    <description>Recent content in Posts on Saya&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 11:41:50 +0200</lastBuildDate><atom:link href="http://saya-rbt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>http://saya-rbt.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 14 Jun 2021 11:41:50 +0200</pubDate>
+      
+      <guid>http://saya-rbt.github.io/posts/hello-world/</guid>
+      <description>This is my first post! Welcome to my website! I am mostly just figuring out how Hugo works for now, but I have to say it looks very promising.
+(There isn&amp;rsquo;t much else to see on this post, it is mostly a test/placeholder. You can leave this page, I promise there isn&amp;rsquo;t a hidden link or anything.)</description>
+    </item>
+    
+  </channel>
+</rss>
