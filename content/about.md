@@ -10,11 +10,9 @@ hidemeta: true
 
 ## Hi! I'm Saya. 👋
 
-### I'm a Computer Science engineer with a specialty in Robotics and Embedded Systems. 🤖
+### I'm a research engineer in HRI and social robotics. 🤖
 
-I am currently looking to either get an engineering job or pursue my studies through a PhD. in HRI (Human-Robot Interaction) in France or anywhere in the world, really. I am also open to hiring opportunities as an engineer, bonus points if it's for research in social robotics and HRI in particular.
-
-I dream of becoming a researcher and a teacher one day, in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.
+I dream of becoming a researcher and a teacher one day through the acquisition of a PhD., in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.
 
 For now, I've worked on a lot of different things, both through my studies as well as my personal projects. Most recently, I've been working on robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions. The code for it isn't available here just yet as it's unfinished and unpolished, so I would still like to clean it a bit before sharing it.
 

@@ -30,7 +30,7 @@ params:
     profileMode:
         enabled: true
         title: "Hi! I'm Saya." # optional default will be site title
-        subtitle: "I'm a robotics and computer science engineer, looking for an engineering job or a PhD. in social robotics and/or HRI. This website contains mostly write-ups from my projects, but also opinions, ideas and thoughts if I feel like it."
+        subtitle: "I'm a research engineer in HRI and social robotics. This website contains mostly write-ups from my projects, but also opinions, ideas and thoughts if I feel like it."
         imageUrl: "https://avatars.githubusercontent.com/u/11200228?v=4" # optional
         imageTitle: "Avatar" # optional
         imageWidth: 120 # custom size
