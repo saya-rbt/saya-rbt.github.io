@@ -12,11 +12,13 @@ hidemeta: true
 
 ### I'm a research engineer in HRI and social robotics. 🤖
 
-I dream of becoming a researcher and a teacher one day through the acquisition of a PhD., in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.
+I am fond of automation, systems administration, embedded computing and parallel calculation. I enjoy Python, C, Bash, Linux systems, Ansible, Docker, and other DevOps/SRE tools as well as low-level development. I am currently available for hire starting in October 2022.
 
-For now, I've worked on a lot of different things, both through my studies as well as my personal projects. Most recently, I've been working on robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions. The code for it isn't available here just yet as it's unfinished and unpolished, so I would still like to clean it a bit before sharing it.
+For now, I've worked on a lot of different things, both through my studies as well as my personal projects. Most recently, I've been working on robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions. In the past, I've worked in creating automation tools for security audit and IT infrastructures management, hardening and monitoring.
 
-If you want to contact me, don't hesitate to send me an email on the following address: saya-rbt@protonmail.com, or through my personal email address if you know it.
+The creations I am allowed to make open-source are available on my [GitHub](https://github.com/saya-rbt).
+
+If you want to contact me, don't hesitate to send me an email on the following address: saya-rbt@proton.me, or through my personal email address if you know it.
 
 Thank you for reading and please enjoy your browsing 😊
 
@@ -32,7 +34,7 @@ I also have opinions and thoughts on other topics than robotics or computer scie
 
 ### There is something on this website I would like to discuss with you/I would like to contact you for business/projects/anything, where can I reach you?
 
-I will be glad to discuss anything you might be interested in sharing with me! Please send me an email at saya-rbt@protonmail.com.
+I will be glad to discuss anything you might be interested in sharing with me! Please send me an email at saya-rbt@proton.me.
 
 ### How is this website made?
 
