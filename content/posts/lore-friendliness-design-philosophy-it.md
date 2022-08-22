@@ -5,7 +5,7 @@ draft: false
 tags: ["Linux", "Software Engineering", "Design", "Script", "Development", "Systems Administration", "Reliability", "Servers", "Philosophy", "Opinion"]
 ---
 
-Throughout my experiences in IT, I have managed to develop and uphold my own set of good practices on top of all the common one we see in the industry ; such as clean code, good documentation, methodology, etc. I have personally found that these were much more manageable long-term on projects of any size. Though it will sound like most of it is common sense, I've found that some design philosophies contradict my principles for no reason that sounded valid to me. I've heard reasons such as "it's an engineering standard", "it makes the codebase more manageable" or even worse, "historically, we have to do it this way".
+Throughout my experiences in IT, I have managed to develop and uphold my own set of good practices on top of all the common one we see in the industry ; such as clean code, good documentation, methodology, etc. I have personally found that these were much more manageable long-term on projects of any size. Though it will sound like most of it is common sense, I've found that some design philosophies contradict my principles for no reason that sounded valid to me. I've heard reasons such as "it's an engineering standard", "it makes the codebase more manageable" or even worse, "for historical reasons, we have to do it this way".
 
 I thought, "if these reasons aren't valid and make my job more annoying to do, I should find what exactly I think would be better". And after theorizing it a little bit, I've managed to isolate four core elements to my personal design philosophy in computer science:
 
