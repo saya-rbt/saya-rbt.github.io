@@ -10,11 +10,15 @@ hidemeta: true
 
 ## Hi! I'm Saya. 👋
 
-### I'm a research engineer in HRI and social robotics. 🤖
+### I'm an all-rounder Computer Science R&D engineer with a specialty in Python and C, Systems Administration, Robotics and Embedded Systems.
 
-I am fond of automation, systems administration, embedded computing and parallel calculation. I enjoy Python, C, Bash, Linux systems, Ansible, Docker, and other DevOps/SRE tools as well as low-level development. I am currently available for hire starting in October 2022.
+*I am currently available for hire! Don't hesitate to contact me for any inquiries.*
 
-For now, I've worked on a lot of different things, both through my studies as well as my personal projects. Most recently, I've been working on robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions. In the past, I've worked in creating automation tools for security audit and IT infrastructures management, hardening and monitoring.
+My past experiences and projects have given me opportunities to work in software development such as (but not limited to) embedded development, Android development as well as desktop software development ; but also DevOps, computer security, infrastructure automation and management, as well as robotics and human-robot interactions. My knowledge gives me a toolbox allowing me to adapt to any projects I find interesting. I do, however, specialize in Python and C developement, Systems Administration, scripting, automation and DevOps.
+
+I was most recently working on a Human-Robot Interactions research project, notably on social robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions, and multi-modal conversational analysis. In the past, I've worked in creating automation tools integrate automated security audits into DevOps pipelines and IT infrastructures management, hardening and monitoring, as well as defining IT infrastructures (both servers and networking) security and hardening policies.
+
+My technical skillset revolves mostly around Python, C, Bash, Linux systems, Ansible, Docker and other DevOps/SRE tools ; as I mainly work on personal infrastructures, software tools, embedded software, automation and Linux administration on my free time.
 
 The creations I am allowed to make open-source are available on my [GitHub](https://github.com/saya-rbt).
 
@@ -34,7 +38,7 @@ I also have opinions and thoughts on other topics than robotics or computer scie
 
 ### There is something on this website I would like to discuss with you/I would like to contact you for business/projects/anything, where can I reach you?
 
-I will be glad to discuss anything you might be interested in sharing with me! Please send me an email at saya-rbt@proton.me.
+I would be glad to discuss anything you might be interested in sharing with me! Please send me an email at saya-rbt@proton.me.
 
 ### How is this website made?
 
