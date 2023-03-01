@@ -12,11 +12,9 @@ hidemeta: true
 
 ### I'm an all-rounder Computer Science R&D engineer with a specialty in Python and C, Systems Administration, Robotics and Embedded Systems.
 
-*I am currently available for hire! Don't hesitate to contact me for any inquiries.*
-
 My past experiences and projects have given me opportunities to work in software development such as (but not limited to) embedded development, Android development as well as desktop software development ; but also DevOps, computer security, infrastructure automation and management, as well as robotics and human-robot interactions. My knowledge gives me a toolbox allowing me to adapt to any projects I find interesting. I do, however, specialize in Python and C developement, Systems Administration, scripting, automation and DevOps.
 
-I was most recently working on a Human-Robot Interactions research project, notably on social robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions, and multi-modal conversational analysis. In the past, I've worked in creating automation tools integrate automated security audits into DevOps pipelines and IT infrastructures management, hardening and monitoring, as well as defining IT infrastructures (both servers and networking) security and hardening policies.
+I'm currently working as a Systems Administrator and DevOps, automating infrastructure as code both on-premise and using Microsoft Azure. In the past, I was working on a Human-Robot Interactions research project, notably on social robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions, and multi-modal conversational analysis. Before that, I've also worked in creating automation tools to integrate automated security audits into DevOps pipelines and IT infrastructures management for a huge company, as well as defining IT infrastructures (both servers and networking) security and hardening policies and monitoring.
 
 My technical skillset revolves mostly around Python, C, Bash, Linux systems, Ansible, Docker and other DevOps/SRE tools ; as I mainly work on personal infrastructures, software tools, embedded software, automation and Linux administration on my free time.
 
