@@ -20,7 +20,7 @@ My technical skillset revolves mostly around Python, C, Bash, Linux systems, Ans
 
 The creations I am allowed to make open-source are available on my [GitHub](https://github.com/saya-rbt).
 
-If you want to contact me, don't hesitate to send me an email on the following address: saya-rbt@proton.me, or through my personal email address if you know it.
+If you want to contact me, don't hesitate to send me an email on the following address: saya-rbt (at) proton (dot) me, or through my personal email address if you know it.
 
 Thank you for reading and please enjoy your browsing 😊
 
